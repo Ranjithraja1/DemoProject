@@ -16,6 +16,8 @@ public class ReturnStatement {
 		
 		ReturnStatement r = new ReturnStatement();
 		int comId = r.comId();
+		int a= 10;
+		System.out.println(a);
 		System.out.println(comId);
 		System.out.println("sucess");
 	}

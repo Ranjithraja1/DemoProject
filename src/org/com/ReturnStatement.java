@@ -19,5 +19,6 @@ public class ReturnStatement {
 		int a= 10;
 		System.out.println(a);
 		System.out.println(comId);
+		System.out.println("sucess");
 	}
 }
